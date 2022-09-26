@@ -6,6 +6,8 @@ Ce bootcamp vous apprend les bases du langage de programmation Python🐍 et l'A
 
 Nous utilisons **Google Colab** dans ce bootcamp. Accédez à tous les notebooks sur Colab en cliquant ici : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevindegila/data-analyst/). Certains notebooks sont encore en cours d'écriture.
 
+- https://github.com/sanogotech/datascienceGoogleColabStarter
+
 Les vidéos de ce bootcamp seront disponibles gratuitement sur la chaîne YouTube **Kevin Degila** : https://www.youtube.com/c/KevinDegila
 
 ## A la fin de ce bootcamp, vous serez en mesure de :
