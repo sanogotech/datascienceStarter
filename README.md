@@ -79,6 +79,13 @@ L'un des avantages du format Bootcamp est d'apprendre des autres apprenants. Nou
 Voici le lien du serveur : https://discord.gg/sHE5exZ . 
 N'hésitez pas à poser des questions et à répondre quand vous avez les réponses aux questions posées.
 
+##  Docs
+
+- https://encyclopedia.pub/entry/20639
+
+- https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet
+
+
 ## Ressources supplémentaires 📚
 
 * Site pour apprendre et s'exercer en Python : https://www.w3schools.com/python/
