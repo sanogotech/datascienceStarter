@@ -1,3 +1,6 @@
+## Datascience Starter Pandas: 30 fonctions
+- https://regenerativetoday.com/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks/
+
 # Bootcamp Analyse de données avec Python 🐍 📉
 
 Ce dépôt contient le code de la 1ère édition du Bootcamp **Analyse de Données avec Python** enseigné par **[Kevin Degila](https://twitter.com/kevindegila)** .
